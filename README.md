@@ -1,2 +1,3 @@
 # bot_sample
-Very simple bot sample to demonstrate the ability of auto.js
+这个项目的目的是展示auto.js用于机器人开发时的简单和高效。
+本人没有兴趣自主开发一个实用的机器人，也没有兴趣受雇于人。
